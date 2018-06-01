@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import guideline from 'guideline';
 import './App.css';
+
+const guideline = require('guideline');
 
 class App extends Component {
   componentDidMount() {
